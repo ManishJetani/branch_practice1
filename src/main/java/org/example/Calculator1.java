@@ -6,4 +6,8 @@ public class Calculator1
     {
         System.out.println("Addition");
     }
+    public void subtraction()
+    {
+        System.out.println("Subtraction");
+    }
 }
